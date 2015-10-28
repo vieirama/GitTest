@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             int a = 1;
             Console.WriteLine("Hello World! A is " + a);
+            Console.WriteLine("Hello World! A is " + a);
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
